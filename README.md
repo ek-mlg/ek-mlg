@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ek-mlg/ek-mlg/main/name.svg" alt="Egor Kirillov" />
+</h1>
+
 FrontEnd Developer
 ------------------
 
