@@ -18,17 +18,18 @@
 * ✉️  You can contact me at [ek.mlg@yandex.ru](mailto:ek.mlg@yandex.ru)
 * 🧠  I'm learning it-incubator.io
 
-
-### Socials:
-
-<p align="left"> <a href="https://www.github.com/ek-mlg" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> <a href="https://www.linkedin.com/in/ek-mlg" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges:
-
 <div align="center">
-<a href="http://www.github.com/ek-mlg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ek-mlg&stroke=ffffff&background=171717&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/ek-mlg"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ek-mlg&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/ek-mlg"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ek-mlg&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+      </td>
+      <td align="center" width='60%'>
+        <a href="http://www.github.com/ek-mlg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ek-mlg&stroke=ffffff&background=171717&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+        <a href="http://www.github.com/ek-mlg"><img src="https://github-readme-stats.vercel.app/api?username=ek-mlg&show_icons=true&hide=stars,issues,&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" alt="ek-mlg's GitHub stats" /></a>
+      </td>
+    </tr>
+  </table>
 
 <a href="https://www.github.com/ek-mlg" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ek-mlg?logo=github&style=for-the-badge&color=a855f7&labelColor=171717" /></a>
