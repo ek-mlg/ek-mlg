@@ -33,7 +33,6 @@
   
 </div>
 
-<a href="https://www.github.com/ek-mlg" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ek-mlg?logo=github&style=for-the-badge&color=a855f7&labelColor=171717" /></a>
+### <a href="mailto:ek.mlg@yandex.ru" target="_blank">Contact me<a/>
 </div>
 
